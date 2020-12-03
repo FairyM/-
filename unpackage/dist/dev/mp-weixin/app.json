@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/forget/forget"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#F7F7F7",
+    "backgroundColor": "#3B4144"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/forget/forget",
+        "text": "忘记密码"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "提现记录"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

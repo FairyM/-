@@ -1,0 +1,85 @@
+
+.container {
+	padding: 20rpx;
+	font-size: 14rpx;
+	line-height: 24rpx;
+}
+.icon-phone {
+	width: 27rpx;
+	height: 41rpx;
+}
+.icon-yzm {
+	width: 28rpx;
+	height: 24rpx;
+}
+.icon-suo {
+	width: 28rpx;
+	height: 38rpx;
+}
+.suo-2 {
+	width: 28rpx;
+	height: 38rpx;
+}
+.bton{
+	width: 570rpx;
+	height: 88rpx;
+	border-radius: 44rpx;
+	background-color: #eb9229;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	margin-top: 150rpx;
+	border: 0;
+}
+.bton2 {
+	width: 200rpx;
+	height: 70rpx;
+	border: solid 1rpx #eb9229;
+	border-radius:25rpx;
+	font-family: PingFang-SC-Regular;
+	font-size: 28rpx;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0rpx;
+}
+.input-row{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	margin-left: 60rpx;
+	margin-top: 98rpx;
+}
+.m-input {
+	width: 165rpx;
+	height: 26rpx;
+	font-family: PingFangSC-Regular;
+	font-size: 28rpx;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0rpx;
+	color: #cccccc;
+}
+.xian {
+	width: 630rpx;
+	height: 1rpx;
+	background-color: #eeeeee;
+	margin-left: 60rpx;
+	margin-right: 60rpx;
+}
+.sure {
+	position: absolute;
+	width: 300rpx;
+	height: 34rpx;
+	font-family: PingFangSC-Regular;
+	font-size: 45rpx;
+	font-weight: normal;
+	font-stretch: normal;
+	letter-spacing: 0rpx;
+	color: #ffffff;
+	margin-left: 100rpx;
+}
+

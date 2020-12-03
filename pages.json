@@ -1,0 +1,27 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "提现记录"
+		}
+	},{
+		"path" : "pages/forget/forget",
+		"style" :{
+			"navigationBarTitleText": "忘记密码"
+		}
+	}],
+	"tabBar":{
+		"list":[{
+			"pagePath":"pages/forget/forget",
+			"text":"忘记密码"
+		},{
+			"pagePath":"pages/index/index",
+			"text":"提现记录"
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#F7F7F7",
+		"backgroundColor": "#3B4144"
+	}
+}
